@@ -1,3 +1,15 @@
 ﻿Package,Description
+applicationinsights,
 body-parser,Node.js body parsing middleware
 express,Node.js web framework
+bluebird,
+cors,
+express-http-context,
+helmet,
+http-errors,
+http-status-codes,
+js-yaml,
+oas-tools,
+request,
+request-promise,
+winston,
