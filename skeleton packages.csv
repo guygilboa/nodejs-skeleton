@@ -14,6 +14,6 @@ request-promise,The simplified HTTP request client 'request' with Promise suppor
 @types/express,This package contains type definitions for Express
 @types/node,This package contains type definitions for Node.js
 cpx,"Copy file globs, watching for changes"
-nodemon,a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+nodemon,a tool that automatically restarting the node application when file changes in the directory are detected
 tslint,TSLint is an extensible static analysis tool that checks TypeScript code
 typescript,TypeScript is a language for application-scale JavaScript
