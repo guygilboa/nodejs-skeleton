@@ -1,0 +1,22 @@
+﻿Name,Description
+config,Configuration files directory
+config/config.ts,App configuration - taken from environment variables
+src/api/controllers,Swagger controllers directory
+src/api/controllers/HealthCheck.ts,Controller of healthcheck endpoint
+src/api/services,App services directory
+src/api/services/healthcheck.ts,Service that handle healthcheck request
+src/api/swagger.yaml, OpenAPI 3.0 definition file
+src/lib/loggers,Loggers directory
+src/lib/loggers/appInsightLogger.ts,Application insight middleware and logger
+src/middlewares,App middlware directory
+src/middlewares/swagger.ts,
+public,"Static assets (fonts, css, js, img)"
+src/app.ts,Application class instance
+src/main.ts,The main application file
+Dockerfile,Docker configuration file
+.gitignore,Folder and files ignored by git
+package.json,NPM dependencies
+package-lock.json,Contains exact versions of NPM dependencies in package.json
+tsconfig.json,Typescript configuration file
+tsconfig.json,tslint configuration file
+dist,typescript compilation destination folder
