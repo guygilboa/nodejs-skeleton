@@ -9,7 +9,7 @@ src/api/swagger.yaml, OpenAPI 3.0 definition file
 src/lib/loggers,Loggers directory
 src/lib/loggers/appInsightLogger.ts,Application insight middleware and logger
 src/middlewares,App middlware directory
-src/middlewares/swagger.ts,
+src/middlewares/swagger.ts,Swagger middlware handler
 public,"Static assets (fonts, css, js, img)"
 src/app.ts,Application class instance
 src/main.ts,The main application file
