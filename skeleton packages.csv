@@ -1,15 +1,19 @@
 ﻿Package,Description
-applicationinsights,
+applicationinsights,Application Insights for Node.js
 body-parser,Node.js body parsing middleware
 express,Node.js web framework
-bluebird,
-cors,
-express-http-context,
-helmet,
-http-errors,
-http-status-codes,
-js-yaml,
-oas-tools,
-request,
-request-promise,
-winston,
+bluebird,Bluebird is a fully featured promise library with focus on innovative features and performance
+cors,Node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options
+express-http-context,Get and set request-scoped context anywhere
+helmet,Helmet helps you secure your Express apps by setting various HTTP headers
+http-errors,Create HTTP errors for Express
+http-status-codes,Constants enumerating the HTTP status codes
+js-yaml,"This is an implementation of YAML, a human-friendly data serialization language"
+oas-tools,This module supports the management of RESTfull APIs defined with OpenAPI 3.0 Specs over express servers
+request-promise,The simplified HTTP request client 'request' with Promise support.
+@types/express,This package contains type definitions for Express
+@types/node,This package contains type definitions for Node.js
+cpx,"Copy file globs, watching for changes"
+nodemon,a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+tslint,TSLint is an extensible static analysis tool that checks TypeScript code
+typescript,TypeScript is a language for application-scale JavaScript
